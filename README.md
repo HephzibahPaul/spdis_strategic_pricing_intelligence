@@ -20,7 +20,7 @@ It simulates real-world pricing situations and produces clear insights and recom
 
 ---
 
-## 📂 Project Structure (BA-friendly view)
+## 📂 Project Structure 
 
 ```
 SPDIS/
