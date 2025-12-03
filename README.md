@@ -10,11 +10,11 @@ This project reflects how modern pricing & product teams evaluate decisions befo
 ## 📌 What This Project Does
 SPDIS answers key business questions:
 
-###  *“How sensitive are customers to price changes?”*  
-###  *“How does competitor pricing influence demand?”*  
-###  *“What happens during festival spikes or flash sales?”*  
-###  *“Which price point maximizes revenue?”*  
-###  *“How does value perception affect customer behavior?”*
+###  *How sensitive are customers to price changes?*  
+###  *How does competitor pricing influence demand?*  
+###  *What happens during festival spikes or flash sales?*  
+###  *Which price point maximizes revenue?*  
+###  *How does value perception affect customer behavior?*
 
 It simulates real-world pricing situations and produces clear insights and recommendations — similar to how a BA would support strategy teams.
 
