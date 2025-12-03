@@ -151,5 +151,4 @@ It mirrors the type of analysis Business Analysts perform in:
 MIT License — free to use, modify, and distribute.
 ```
 
----
 
