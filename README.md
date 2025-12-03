@@ -145,10 +145,3 @@ It mirrors the type of analysis Business Analysts perform in:
 - SaaS  
 - marketplaces  
 
----
-
-## 📄 License
-MIT License — free to use, modify, and distribute.
-```
-
-
