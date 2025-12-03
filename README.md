@@ -56,7 +56,7 @@ SPDIS/
 
 ---
 
-##  Key Business Concepts Modeled
+## 🧠 Key Business Concepts Modeled
 
 ### **1. Behavioral Value Perception (VPS)**
 A scoring method that estimates whether customers feel a price is:
@@ -115,7 +115,7 @@ This helps decision-makers choose a price that balances:
 
 ---
 
-##  Example Insights From the Simulator
+## 📊 Example Insights From the Simulator
 
 - Bargain-driven segments respond strongly to competitor price drops.  
 - Festival season raises demand significantly for selected product types.  
@@ -125,7 +125,7 @@ This helps decision-makers choose a price that balances:
 
 ---
 
-##  Why This Project Matters
+## ⭐ Why This Project Matters
 
 Pricing decisions influence:
 - conversion rates  
@@ -150,3 +150,6 @@ It mirrors the type of analysis Business Analysts perform in:
 ## 📄 License
 MIT License — free to use, modify, and distribute.
 ```
+
+---
+
