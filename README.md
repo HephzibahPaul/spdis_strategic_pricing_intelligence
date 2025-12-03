@@ -3,26 +3,28 @@
 SPDIS is a pricing strategy simulator designed to understand how customers may react to different pricing decisions.  
 It uses synthetic e-commerce data to model **value perception**, **price sensitivity**, **competitor impact**, and **revenue outcomes** under multiple business scenarios.
 
-This project reflects how modern pricing & product teams evaluate decisions before launching them in the market.
+This project reflects how modern pricing & product teams evaluate decisions before launching changes in the market.
 
 ---
 
 ## 📌 What This Project Does
-SPDIS answers key business questions:
 
-###  *How sensitive are customers to price changes?*  
-###  *How does competitor pricing influence demand?*  
-###  *What happens during festival spikes or flash sales?*  
-###  *Which price point maximizes revenue?*  
-###  *How does value perception affect customer behavior?*
+SPDIS answers key business questions such as:
 
-It simulates real-world pricing situations and produces clear insights and recommendations — similar to how a BA would support strategy teams.
+- How sensitive are customers to price changes?  
+- How does competitor pricing influence demand?  
+- What happens during festival spikes or flash sales?  
+- Which price point maximizes revenue?  
+- How does value perception affect customer behavior?  
+
+It simulates real-world pricing situations and produces clear insights and recommendations — similar to how a BA supports strategy teams.
 
 ---
 
-## 📂 Project Structure 
+## 📂 Project Structure
 
 ```
+
 SPDIS/
 │
 ├── src/
@@ -33,7 +35,7 @@ SPDIS/
 │   ├── shock_simulator.py
 │   ├── price_ladder.py
 │   ├── deck_generator.py
-│   └── __init__.py
+│   └── **init**.py
 │
 ├── data/
 │   └── spdis_behavioral_data.csv
@@ -49,22 +51,21 @@ SPDIS/
 ├── requirements.txt
 ├── LICENSE
 └── README.md
+
 ```
-
-
 
 ---
 
 ##  Key Business Concepts Modeled
 
-### **1. Behavioral Value Perception (VPS)**  
+### **1. Behavioral Value Perception (VPS)**
 A scoring method that estimates whether customers feel a price is:
 - fair  
 - too high  
 - a good deal  
 - influenced by competitor pricing  
 
-VPS helps explain *why* some prices work and others fail.
+VPS helps explain why some prices work and others fail.
 
 ---
 
@@ -72,20 +73,19 @@ VPS helps explain *why* some prices work and others fail.
 SPDIS identifies:
 - which customer types are more price-sensitive  
 - how demand changes when price increases or decreases  
-- how competitor undercutting affects your sales  
+- how competitor undercutting affects sales  
 
-This is crucial for pricing decisions, product launches, and discount planning.
+This is essential for pricing decisions, product launches, and discount planning.
 
 ---
 
 ### **3. Scenario Analysis**
 The simulator models five realistic pricing scenarios:
-
-- **Price Increase**
-- **Discount Activation**
-- **Competitor Price Cut**
-- **Festival Uplift**
-- **Base Case (No Change)**
+- Price Increase  
+- Discount Activation  
+- Competitor Price Cut  
+- Festival Uplift  
+- Base Case (No Change)  
 
 Each scenario forecasts:
 - demand movement  
@@ -101,12 +101,12 @@ Used for short-term, high-impact events such as:
 - festival shopping spikes  
 - sudden market disruptions  
 
-BAs use this to stress-test a pricing strategy.
+This helps stress-test pricing strategies.
 
 ---
 
 ### **5. Revenue Curve & Optimal Price**
-SPDIS evaluates dozens of price points and finds the approximate point where **revenue is maximized**.
+SPDIS evaluates dozens of price points and identifies where **revenue is maximized**.
 
 This helps decision-makers choose a price that balances:
 - sales volume  
@@ -117,18 +117,17 @@ This helps decision-makers choose a price that balances:
 
 ##  Example Insights From the Simulator
 
-- Customers in “bargain-driven” segments respond strongly to competitor price drops.  
-- Festival season raises demand significantly, but only for specific product types.  
-- A mid-tier price point performed best across simulations.  
+- Bargain-driven segments respond strongly to competitor price drops.  
+- Festival season raises demand significantly for selected product types.  
+- A mid-tier price performed best across simulations.  
 - Price increases above a threshold created noticeable demand drop-offs.  
-- Value Perception Score strongly correlates with buying behavior.
+- Value Perception Score strongly correlates with buying behavior.  
 
 ---
 
+##  Why This Project Matters
 
-
-## ⭐ Why This Project Matters
-Pricing decisions can significantly influence:
+Pricing decisions influence:
 - conversion rates  
 - revenue  
 - customer satisfaction  
@@ -140,9 +139,14 @@ SPDIS demonstrates how pricing can be approached analytically using:
 - scenario thinking  
 - storytelling insights  
 
-It mirrors the type of analysis BAs perform in e-commerce, SaaS, retail, and marketplace companies.
+It mirrors the type of analysis Business Analysts perform in:
+- e-commerce  
+- retail  
+- SaaS  
+- marketplaces  
 
 ---
 
-## 📄 License  
+## 📄 License
 MIT License — free to use, modify, and distribute.
+```
