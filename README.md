@@ -35,7 +35,7 @@ SPDIS/
 │   ├── shock_simulator.py
 │   ├── price_ladder.py
 │   ├── deck_generator.py
-│   └── **init**.py
+│   └── init.py
 │
 ├── data/
 │   └── spdis_behavioral_data.csv
