@@ -10,11 +10,11 @@ This project reflects how modern pricing & product teams evaluate decisions befo
 ## 📌 What This Project Does
 SPDIS answers key business questions:
 
-### ✔ *“How sensitive are customers to price changes?”*  
-### ✔ *“How does competitor pricing influence demand?”*  
-### ✔ *“What happens during festival spikes or flash sales?”*  
-### ✔ *“Which price point maximizes revenue?”*  
-### ✔ *“How does value perception affect customer behavior?”*
+###  *“How sensitive are customers to price changes?”*  
+###  *“How does competitor pricing influence demand?”*  
+###  *“What happens during festival spikes or flash sales?”*  
+###  *“Which price point maximizes revenue?”*  
+###  *“How does value perception affect customer behavior?”*
 
 It simulates real-world pricing situations and produces clear insights and recommendations — similar to how a BA would support strategy teams.
 
@@ -56,7 +56,7 @@ Copy code
 
 ---
 
-## 🧠 Key Business Concepts Modeled
+##  Key Business Concepts Modeled
 
 ### **1. Behavioral Value Perception (VPS)**  
 A scoring method that estimates whether customers feel a price is:
@@ -116,7 +116,7 @@ This helps decision-makers choose a price that balances:
 
 ---
 
-## 📊 Example Insights From the Simulator
+##  Example Insights From the Simulator
 
 - Customers in “bargain-driven” segments respond strongly to competitor price drops.  
 - Festival season raises demand significantly, but only for specific product types.  
@@ -126,15 +126,7 @@ This helps decision-makers choose a price that balances:
 
 ---
 
-## 🧑‍💼 Resume-Ready Highlights (Business Analyst)
 
-- Designed a pricing intelligence simulator to evaluate customer behavior under different pricing conditions.  
-- Built a Value Perception Score model combining fairness perception, competitor impact, and hesitation behavior.  
-- Conducted scenario and shock analyses to understand pricing risks and revenue opportunities.  
-- Created a leadership insights deck summarizing pricing strategy recommendations and business impact.  
-- Performed elasticity and sensitivity analysis to identify optimal pricing ranges.
-
----
 
 ## ⭐ Why This Project Matters
 Pricing decisions can significantly influence:
